@@ -1,9 +1,10 @@
 {
   "subscribers": [
     {
-      "id": "main",
-      "expiry": 1767148800,
+      "id": "securevpn_main",
+      "remarks": "SecureVPN Подписка",
       "total": 0,
+      "expiry": 1767148800,
       "servers": [
         "vless://c990a540-d611-49b2-bdb2-cea4d5a79563@157.22.201.135:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=m.ok.ru&fp=edge&pbk=4at9x1FsOdS5dACbCHJK4MvoIrRb1aebOeMj3J4myFA&sid=f96a678cce6566af&type=tcp&expire=2026-12-31#🇩🇪 Germany",
         "vless://c990a540-d611-49b2-bdb2-cea4d5a79563@194.87.26.236:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=amd.com&fp=qq&pbk=h1VRwEShTuB_in4Lace-L73lrHdZoIZhAWx3RmyQPEo&sid=1c4a8f6e&type=tcp&expire=2026-12-31#🇳🇱 Netherlands",
